@@ -1,0 +1,14 @@
+{
+  "name": "small-table-studio",
+  "owner": {
+    "name": "Manali Hanamsagar"
+  },
+  "description": "Growth skills from Small Table Studio.",
+  "plugins": [
+    {
+      "name": "plg-for-ai-products",
+      "source": "./",
+      "description": "Diagnostic skills for product-led growth in AI products: AI trust, activation, behavioral design, PLG with sales, and a 30/60/90-day plan."
+    }
+  ]
+}

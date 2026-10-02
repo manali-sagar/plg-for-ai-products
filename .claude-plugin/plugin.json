@@ -1,0 +1,12 @@
+{
+  "name": "plg-for-ai-products",
+  "description": "Diagnostic skills for product-led growth in AI products: AI trust, activation, behavioral design, PLG with sales, and a 30/60/90-day plan. By Manali Hanamsagar, Small Table Studio.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Manali Hanamsagar",
+    "url": "https://manalihanamsagar.com/smalltablestudio"
+  },
+  "homepage": "https://manalihanamsagar.com/smalltablestudio",
+  "license": "CC-BY-4.0",
+  "keywords": ["plg", "product-led-growth", "ai", "activation", "onboarding", "growth", "behavioral-design"]
+}
