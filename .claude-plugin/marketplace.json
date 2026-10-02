@@ -3,12 +3,20 @@
   "owner": {
     "name": "Manali Hanamsagar"
   },
-  "description": "Growth skills from Small Table Studio.",
+  "description": "Growth skills from Small Table Studio: PLG for AI products, and growth planning and acquisition channels.",
   "plugins": [
     {
       "name": "plg-for-ai-products",
       "source": "./",
       "description": "Diagnostic skills for product-led growth in AI products: AI trust, activation, behavioral design, PLG with sales, and a 30/60/90-day plan."
+    },
+    {
+      "name": "growth-channel-skills",
+      "source": {
+        "source": "github",
+        "repo": "manali-sagar/growth-channel-skills"
+      },
+      "description": "Growth planning from a revenue goal and referral program design, for freemium and subscription products."
     }
   ]
 }

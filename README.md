@@ -35,6 +35,8 @@ Install all five as a plugin:
 
 Or copy any folder from [`skills`](skills) into `~/.claude/skills/`.
 
+The same collection also includes [Growth Channel Skills](https://github.com/manali-sagar/growth-channel-skills) (growth planning and referral programs). Install it with `/plugin install growth-channel-skills@small-table-studio`.
+
 ## How to get the most out of them
 
 - **Bring real material.** Screenshots of your onboarding, your homepage promise, your metrics, sales call notes. The skills won't invent data; they'll tell you what's missing and how to find it.
